@@ -1,0 +1,9 @@
+{
+  "id": "dataview-graph-sync",
+  "name": "Dataview Graph Sync",
+  "version": "0.1.0",
+  "minAppVersion": "0.15.0",
+  "description": "Keeps Dataview query results visible in Obsidian's graph view via hidden wikilinks.",
+  "author": "tuurk",
+  "isDesktopOnly": false
+}
